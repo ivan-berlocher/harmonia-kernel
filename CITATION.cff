@@ -17,6 +17,5 @@ keywords:
   - PSMR protocol
   - Open Science
 abstract: >-
-  Trust-aware cognitive orchestration system implementing the PSMR protocol
-  (Perceive-Synthesize-Manifest-Reflect) for traceable, governable AI reasoning.
-  Designed as a foundational component for responsible research infrastructure.
+  Harmonia Kernel implements a trust-aware reasoning protocol whose decisions
+  are observable, traceable, and executable by design.
