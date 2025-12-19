@@ -1,21 +1,17 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
-title: "Harmonia Kernel: Trust-Aware Cognitive Orchestration for Responsible Research"
+type: software
+title: "Harmonia Kernel: A Verifiable Cognitive Kernel for Presence-Oriented AI Systems"
+version: 0.1.0
+date-released: 2025-12-18
 authors:
-  - family-names: "Berlocher"
-    given-names: "Ivan"
-    orcid: "https://orcid.org/0009-0006-5765-0845"
-version: "0.1.0"
-date-released: "2025-12-17"
-license: "MIT"
+  - family-names: Berlocher
+    given-names: Ivan
 repository-code: "https://github.com/ivan-berlocher/harmonia-kernel"
+license: MIT
 keywords:
-  - cognitive orchestration
-  - trustworthy AI
-  - research infrastructure
-  - reasoning traceability
-  - PSMR protocol
-  - Open Science
-abstract: >-
-  Harmonia Kernel implements a trust-aware reasoning protocol whose decisions
-  are observable, traceable, and executable by design.
+  - cognitive-architecture
+  - verifiable-ai
+  - harmonia
+  - psmvr
+abstract: "Minimal, reproducible implementation of the Harmonia cognitive kernel (PSMVR pipeline) for presence-oriented AI systems."
