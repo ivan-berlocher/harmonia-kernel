@@ -9,6 +9,7 @@ authors:
     given-names: Ivan
 repository-code: "https://github.com/ivan-berlocher/harmonia-kernel"
 license: MIT
+doi: 10.5281/zenodo.17927530
 keywords:
   - cognitive-architecture
   - verifiable-ai
